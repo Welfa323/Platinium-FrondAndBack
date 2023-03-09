@@ -1,0 +1,43 @@
+.footer{
+    background-color: rgb(245, 240, 240);
+    padding-top: 58px;
+}
+.footer_bloc1{
+    text-align: center;
+    padding-bottom: 45px;
+}
+.footer_bloc1 h3{
+    font-family: Verdana, sans-serif;
+    color:#95191c;
+    font-weight: 600;
+    font-size: 30px;
+}
+.search_barre{
+    display: flex;
+    margin: auto;
+    width: 40%;
+    margin-top: 25px;
+}
+.search_barre button{
+    border-color: #95191c;
+    margin-left: 10px;
+}
+.search_barre button:hover{
+    background-color: #95191c;
+    color: #fff;
+}
+.footer_bloc2{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 25px;
+}
+.footer_bloc2 h6{
+    margin-right: 150px;
+}
+.codeur a{
+    color: rgb(168, 99, 99);
+    text-decoration: none;
+}
+.codeur a:hover{
+    color: rgb(187, 21, 21);
+}

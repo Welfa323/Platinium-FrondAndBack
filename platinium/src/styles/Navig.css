@@ -1,0 +1,88 @@
+.navba{
+    /* border-bottom: 2px solid#95191c; */
+    /* background-color:#95191c; */
+    
+     
+}
+.logo:hover{
+    color : #95191c;
+}
+.carousel-slide{
+    margin-top: none;
+}
+
+.logo{
+    color: #95191c;
+
+}
+.parti1_logo{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.parti2_logo{
+    text-transform: uppercase;
+    font-weight: 100;
+  
+}
+.parti3_logo{
+    display: block;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 14px;
+    margin-left: 20px;
+  
+}
+
+
+#collasible-nav-dropdown{
+    /* color : #C03A1E; */
+    padding-left: 10px;
+    color: black;
+}
+#collasible-nav-dropdown:hover{
+    color: #95191c;
+}
+.dropdown-menu.show{
+    /* color: #95191c;  */
+}
+.dropdown-item:hover{
+    /* background-color: #c90e11; */
+    transition: 0.5s;
+}
+#responsive-navbar-nav{
+    margin: auto;
+    text-align: center;
+    margin-right: 60px;
+}
+.navbar-toggler{
+    color: black;
+}
+.navbar-toggler-icon{
+    color: black;
+}
+.liens{
+    text-decoration: none;
+    color: black;
+    font-weight:500;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 10px ;
+}
+
+.liens:hover{
+    color: #c90e11;
+}
+
+.me-auto{
+    margin-left: 150px;
+}
+.nav-link{
+    font-size: 16px;
+    color: #0c0101bd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-link:hover{
+    color: rgb(175, 33, 14);
+    
+}

@@ -1,0 +1,36 @@
+.slogan{
+    color: #95191c;
+    font-size: 14px;
+    font-family: poppins, sans-serif;
+    margin-right: 100px;
+}
+
+.slogan:hover{
+    color : #95191c;
+}
+.lien{
+    color: black;
+    text-decoration: none;
+    margin : 0 10px;
+    font-size: 14px;
+    font-family: poppins, sans-serif;
+}
+
+.lien:hover{
+
+    color:#ce1417;
+}
+
+.iconeCall{
+    margin-right: 5px;
+}
+
+.iconeEmail{
+    margin-right: 5px;
+}
+
+@media (max-width: 792px) {
+    .Topbar {
+      display: none;
+    }
+  }

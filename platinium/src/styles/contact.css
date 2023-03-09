@@ -1,0 +1,50 @@
+.global_contact{
+    height: 80vh;
+    display: flex;
+    justify-content:center;
+    background-color: transparent;
+}
+
+.contact_bloc1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 50%;
+    margin: 10px 20px;
+}
+.contact_bloc2{
+    height: 40vh;
+    width: 50%;
+    margin: 10px 20px;
+}
+.con_bl1_bl1{
+    border: 1px solid rgb(240, 240, 240);
+    height: 25vh;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.con_bl1_bl2{
+    border: 1px solid rgb(240, 240, 240);
+    height: 30vh;
+    width: 50%;
+    margin-bottom: 90px;
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.con_bl1_bl3{
+    border: 1px solid rgb(240, 240, 240);
+    height: 30vh;
+    width: 40%;
+    margin-left: 60px;
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
